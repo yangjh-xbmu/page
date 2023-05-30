@@ -1,0 +1,4 @@
+changeBg:食堂.jpg -next;
+changeFigure: -right -next;
+changeFigure:stand.png -left -next;
+角色名:听说大众五食堂不错，要不一起？;
