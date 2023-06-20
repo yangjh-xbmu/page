@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* backdrop-filter: brightness(60%); */
+  backdrop-filter: blur(4px);
+
+  /* backdrop-filter: opacity(20%); */
+  background-image: url('https://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp');
+  background-repeat: no-repeat;
+  background-size: 800px;
+  background-position: -1000px 0;
+  background-attachment: fixed；
+}
+
+#container {
+  width: 900px;
+  margin: 0 auto;
+
+
+
+}
+
+img {
+  display: block;
+  width: 500px;
+  margin: 16px auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 2px;
+  box-shadow: 0 4px 6px 2px #ccc;
+}
+
+.meta {
+  font-size: 12px;
+}
+
+#editor {
+  text-align: right;
+}
+
+#news-meta {
+  text-align: center;
+}
+
+#news-meta p {
+  color: darkgray;
+}
+
+.meta a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  font-family: '思源宋体', '黑体';
+  font-weight: 900;
+}
+
+p {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+pre {
+  line-height: 2;
+  font-family: '楷体';
+  font-size: 24px;
+}
+
+#abs {
+  background-color: #333;
+
+}
+
+p.abstract {
+  font-size: 14px;
+  color: rgb(105, 104, 104);
+  color: white;
+  text-indent: 2em;
+}
+
+/* 视频播放器样式 */
+#vs {
+  width: 800px !important;
+  border: 10px solid red;
+  /* margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto; */
+  margin: 100px auto;
+}

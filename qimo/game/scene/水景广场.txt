@@ -1,0 +1,5 @@
+changeBg:xbmu.jpg -next;
+changeFigure:xiaoli.png -right -next;
+小丽:场景通常包括背景图、人物（可多个）或者其它主体，还可以有背景音乐、音效等等。;
+changeScene:结局.txt -when=score>80; // a>1时跳转到场景2
+choose:去食堂:食堂.txt|去听讲座:图书馆前.txt;

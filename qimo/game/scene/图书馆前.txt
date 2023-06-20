@@ -1,0 +1,5 @@
+changeBg:图书馆.png;
+角色名，留空以继承上句:对话;
+changeFigure:none -right;
+setVar:score=100;
+changeScene:水景广场.txt

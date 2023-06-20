@@ -1,0 +1,3 @@
+changeBg:致美楼.png -next;
+神秘人:……………………;
+changeScene:水景广场.txt
